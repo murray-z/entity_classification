@@ -1,0 +1,4 @@
+{"text": "从新郑机场到大兴机场的航班。", "entitys": [{"entity": "新郑机场", "start": 1, "label": "from"}, {"entity": "大兴机场", "start": 6, "label": "to"}]}
+{"text": "我想查询从双流机场到大兴机场的航班。", "entitys": [{"entity": "双流机场", "start": 5, "label": "from"}, {"entity": "大兴机场", "start": 10, "label": "to"}]}
+{"text": "帮我查一下从新郑机场到大兴机场的航班。", "entitys": [{"entity": "新郑机场", "start": 6, "label": "from"}, {"entity": "大兴机场", "start": 12, "label": "to"}]}
+{"text": "周一从新郑机场到大兴机场的航班。", "entitys": [{"entity": "新郑机场", "start": 2, "label": "from"}, {"entity": "大兴机场", "start": 8, "label": "to"}]}
